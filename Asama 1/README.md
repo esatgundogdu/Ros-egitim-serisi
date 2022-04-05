@@ -5,7 +5,7 @@
 
 * ### Seri boyunca verilen görevleri nasıl yapacağınızı internetten araştırmanız beklenmektedir. Takıldığınız yerlerde GAT2 repo'sundan yardım alabilirsiniz.
 
-* #### Bu aşamada yapılması gerekenler: 
+* ### Bu aşamada yapılması gerekenler: 
   1. Workspace'inizde Gazebo için yeni bir paket oluşturmak. Gazebo için yazdığımız launch dosyaları, node'lar vs. bu paket içinde olacak. Paket isimlendirmeleri için "<workspace_ismi>_<paket_ismi>" formatında yazmak ileride paketleri karıştırmamak açısından faydalı oluyor (bizim repo'muzda da isimlendirmeler bu şekilde). Bu aşamada paket ismi "<workspace_ismi>_gazebo" olabilir.
   2. Paketlerin içine yazacağımız ".launch" dosyaları için "launch" isminde bir dizin oluşturuyoruz. Buraya ilk launch dosyamızı ekleyeceğiz.
   3. Öncelikle launch dosyasında gazebo_ros paketinden "empty_world" dosyasını çağırarak boş bir dünya oluşturuyoruz.
