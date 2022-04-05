@@ -3,7 +3,7 @@
 
 * ### Hedef: Bu aşamada hedefimiz simülasyon boyunca kullanabilinecek bir model oluşturmak. Bir sonraki aşamada oluşturduğumuz modeli kontrol edeceğiz. 
 
-* ### Seri boyunca verilen görevleri nasıl yapacağınızı internetten araştırmanız beklenmektedir. Takıldığınız yerlerde GAT2 repo'sundan yardım alabilirsiniz.
+* #### Seri boyunca verilen görevleri nasıl yapacağınızı internetten araştırmanız beklenmektedir. Takıldığınız yerlerde GAT2 repo'sundan yardım alabilirsiniz.
 
 * ### Bu aşamada yapılması gerekenler: 
     1. Linkler ve Jointler hakkında araştırma yapılacak.

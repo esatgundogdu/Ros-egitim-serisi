@@ -3,7 +3,7 @@
 
 * ### Hedef: Bu aşamada hedefimiz geçtiğimiz aşamada oluşturduğumuz modeli kontrol etmek.
 
-* ### Seri boyunca verilen görevleri nasıl yapacağınızı internetten araştırmanız beklenmektedir. Takıldığınız yerlerde GAT2 repo'sundan yardım alabilirsiniz.
+* #### Seri boyunca verilen görevleri nasıl yapacağınızı internetten araştırmanız beklenmektedir. Takıldığınız yerlerde GAT2 repo'sundan yardım alabilirsiniz.
 
 * ### Gerekli ön bilgiler:
   1. TF (Kısa bir ön araştırma iyi olur)
@@ -31,7 +31,7 @@
        2.  Bu jointler için yeni controller'lar eklememiz gerekiyor (önceki eklediklerimiz aynen duracak, direksiyon için yeni ekleme yapacağız). Yaml dosyasına direksiyon controller'larını da ekliyoruz. 
    1.  Simülasyonda tekerleklerin yeni oluşturduğumuz controller'lar ile yanlara döndüğünü görünce bu aşamayı tamamlamış bulunuyoruz.
 
-* ### NOT: Bu aşamada anlatılanlar sadece yol gösterici, aşamayı geçmek için internetten araştırmanız gerekecektir. İnsanların yazdığı hazır kodları incelemek faydalı olur. Takıldığınız yerlerde yine GAT2 repo'sundan bizim nasıl yaptığımıza bakabilirsiniz. 
+* #### NOT: Bu aşamada anlatılanlar sadece yol gösterici, aşamayı geçmek için internetten araştırmanız gerekecektir. İnsanların yazdığı hazır kodları incelemek faydalı olur. Takıldığınız yerlerde yine GAT2 repo'sundan bizim nasıl yaptığımıza bakabilirsiniz. 
 
 * ### Anahtar Kelimeler:
   * ros-controllers

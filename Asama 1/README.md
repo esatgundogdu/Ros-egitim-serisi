@@ -3,7 +3,7 @@
 
 * ### Hedef: Bu aşamada hedefimiz ROS aracılığıyla Gazebo'ya model eklemek.
 
-* ### Seri boyunca verilen görevleri nasıl yapacağınızı internetten araştırmanız beklenmektedir. Takıldığınız yerlerde GAT2 repo'sundan yardım alabilirsiniz.
+* #### Seri boyunca verilen görevleri nasıl yapacağınızı internetten araştırmanız beklenmektedir. Takıldığınız yerlerde GAT2 repo'sundan yardım alabilirsiniz.
 
 * ### Bu aşamada yapılması gerekenler: 
   1. Workspace'inizde Gazebo için yeni bir paket oluşturmak. Gazebo için yazdığımız launch dosyaları, node'lar vs. bu paket içinde olacak. Paket isimlendirmeleri için "<workspace_ismi>_<paket_ismi>" formatında yazmak ileride paketleri karıştırmamak açısından faydalı oluyor (bizim repo'muzda da isimlendirmeler bu şekilde). Bu aşamada paket ismi "<workspace_ismi>_gazebo" olabilir.
