@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<launch>
+
+    <!-- Baska bir launch file include etme ornegi -->
+	<!--<include file="$(find paket_ismi)/launch/launch_dosyasi.launch">
+		<arg name="world_name" value="$(find gat2_gazebo)/worlds/$(arg world).world"/>
+	</include>-->
+	
+    <!-- Node cagirma ornegi -->
+	<!-- <node name="node_ismi" pkg="node_paketi" type="node_dosyasinin_ismi"/> -->
+
+
+</launch>

@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<robot name="gumus" xmlns:xacro="http://www.ros.org/wiki/xacro">
+
+    <!-- Link ornegi -->
+    <link name="base_link">
+        <!-- visual tagi linkin goruntusunu degistirmeyi saglar -->
+        <visual>
+            <origin xyz="0 0 0" rpy="0 0 0"/>
+            <geometry>
+            </geometry>
+        </visual>
+        <!-- collision tagi ile linkin seklini belirlersiniz, visual ile seklin goruntusunu belirlersiniz. -->
+        <collision>
+            <geometry>
+            </geometry>
+        </collision>
+    </link>
+
+    <!-- Joint ornegi -->
+    <joint name="front_joint" type="fixed">
+        <parent link="base_link"/>
+        <child link="front_link"/>
+        <origin xyz="0 0 0}"/>
+    </joint>
+
+</robot>
